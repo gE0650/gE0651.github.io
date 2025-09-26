@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "-Pkuhub's site"
+title                    : "gE's site"
 title_separator          : "-"
-name                     : &name "xker "
-description              : &description "111"
+name                     : &name "gE "
+description              : &description "QAQ"
 url                      : https://gE0650.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gE0650/gE0650.github.io"
