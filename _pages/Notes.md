@@ -91,15 +91,15 @@ author_profile: true
             }
         }
     </style>
-   <details><summary>点击展开 </summary>
+   <details><summary>Click to unfold </summary>
   <div class="timeline-container">
         <!-- 2022 秋 -->
     <div class="timeline-item">
       <div class="timeline-node"></div>
         <div class="content">
-                <h3>你好, EECS</h3>
-                <span class="time">2022 秋</span>
-                <p>入燕园，初窥计算机语言与 Github</p>
+                <h3>Hello, github.io</h3>
+                <span class="time">25.9.26</span>
+                <p>First modified by gE</p>
         </div>
     </div>
     </div>
