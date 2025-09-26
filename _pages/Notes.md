@@ -107,9 +107,9 @@ author_profile: true
 
 
 
-## 111
+## 
 
-{% assign paths = "nameofthemd.md" | split: "," %}
+{% assign paths = "legacy.md" | split: "," %}
 
 {% for post in site.Notes reversed %}
   {% for path in paths %}
