@@ -19,3 +19,9 @@ Everything felt boring for gE, so it sought for advice from **rW**, who commente
 ~~Damn~~ gE's Eng is so awful.  
 
 ---
+
+# 9.28
+
+First time to connect to Clab from VScode, which enable using GUI inside VScode. Really helpful for beginners like gE. But now it needs to ssh to Clab first, then ssh again to Github.  
+
+Found a plugin that can change the background of VSC, interesting.  
