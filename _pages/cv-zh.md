@@ -45,15 +45,14 @@ redirect_from:
     <br/><br/>
 </body>
 
-* 姓名: Your Name
-* 电话及微信 15705694836 / 邮箱 [2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
-* 个人主页：[iculizhi.github.io](https://iculizhi.github.io/)
+* 姓名: gE
+* 电话及微信 17386888933 / 邮箱 [xuanchengliu25@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
+* 个人主页：[Home page](https://gE0650.github.io/)
 
 学历
 ======
-* 本科：北京，北京大学，2022
-  * 专业：信息与计算科学（图灵班），信息科学技术学院
-  * 双学位：经济学，国家发展研究院
+* 本科：北京，北京大学，2025
+  * 专业：信息与计算科学，信息科学技术学院
 
 
 

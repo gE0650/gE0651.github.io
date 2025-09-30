@@ -31,3 +31,7 @@ Found a plugin that can change the background of VSC, interesting.
 Trapped by mathematical analysis, did nothing interesting.  
 Damn why hasn't gE modify the CV page?  
 
+# 9.30
+
+Installed *Ori and the Will of the Wisps*, plan to give it a try during the festival.  
+Took a small bite of Vim today. Really uncomfortable for beginners like gE, as is declared in many instructions.  
