@@ -28,5 +28,6 @@ Found a plugin that can change the background of VSC, interesting.
 
 # 9.29
 
-Trapped by mathematical analysis, did nothing interesting.
+Trapped by mathematical analysis, did nothing interesting.  
+Damn why hasn't gE modify the CV page?  
 
