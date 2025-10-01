@@ -10,7 +10,7 @@ location: "Beijing, China"
 
 # 9.27
 
-Participated in a Linux ~~Inpart~~ Install Party and Freshman Parties for both gE's faculty and its province. Indeed all are brillant, yet its **sense of engagement** was lost, due to its style maybe.  
+Participated in a Linux ~~Inpart~~ Install Party and Freshman Parties for both gE's faculty and its province. Indeed all are brillant, yet its(gE will be referred to with "it" in this diary) **sense of engagement** was lost, due to its style maybe.  
 
 For long a complaint haunted in gE that maybe what it has been studying **doesn't make a difference**. But today it finds out a positive perspective: Turns out that the courses should be handy.  
 
@@ -33,5 +33,12 @@ Damn why hasn't gE modify the CV page?
 
 # 9.30
 
-Installed *Ori and the Will of the Wisps*, plan to give it a try during the festival.  
+Installed *Ori and the Will of the Wisps*, plan to give it a try during the vacation.    
 Took a small bite of Vim today. Really uncomfortable for beginners like gE, as is declared in many instructions.  
+
+# 10.1
+
+Been back to gE's hometown, felt as if gE just left here days ago. One moment after scrolling for a while it even occurred whether all about the university was a dream and it was still preparing for the exam.  
+Kind of blank at what to do next, maybe gE has to list what to do, or maybe it simply needs to rest.  
+Found an interesting fact: when pressing **J** and **K** in markdown files, the prompt will go up/down para by para, not line by line. So how should gE reach the lines inside the paras?  
+Retrospected what gE'd done. Seemed like lots of things.  
