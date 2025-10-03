@@ -42,3 +42,16 @@ Been back to gE's hometown, felt as if gE just left here days ago. One moment af
 Kind of blank at what to do next, maybe gE has to list what to do, or maybe it simply needs to rest.  
 Found an interesting fact: when pressing **J** and **K** in markdown files, the prompt will go up/down para by para, not line by line. So how should gE reach the lines inside the paras?  
 Retrospected what gE'd done. Seemed like lots of things.  
+
+# 10.2
+
+Scrolling all day and did nothing $\ldots$
+
+# 10.3
+
+Still inactive, but learnt some $L^AT_EX$.  
+Give it a try here  
+$$
+\sum^n_{i = 1}i = \frac{n(n - 1)}{2}
+$$
+Seems OK, but gE wonder if it needs to config LaTeX support on this static website generator.  
