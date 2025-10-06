@@ -65,3 +65,7 @@ But had a pleasant talk with a friend. Found so huge the gaps between faculties 
  
 Finished the first draft of the leaflet, tons of modifications are needed, but compiling is surprisingly EZ.  
 Maybe gE needs to get down on some concrete works $\ldots$
+
+# 10.6
+
+Took a small bite of Obsidian and Simpread. Wonder in which scene can gE use them. Do it need to take notes in Markdown?
