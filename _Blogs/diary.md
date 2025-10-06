@@ -55,3 +55,13 @@ $$
 \sum^n_{i = 1}i = \frac{n(n - 1)}{2}
 $$
 Seems OK, but gE wonder if it needs to config LaTeX support on this static website generator.  
+
+# 10.4
+
+Did nothing again $\ldots$  
+But had a pleasant talk with a friend. Found so huge the gaps between faculties are. So decided to write a handout to share some good stuffs gE've found, also as practice for using $L^AT_EX$.  
+
+# 10.5
+ 
+Finished the first draft of the leaflet, tons of modifications are needed, but compiling is surprisingly EZ.  
+Maybe gE needs to get down on some concrete works $\ldots$
