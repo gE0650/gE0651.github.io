@@ -20,7 +20,7 @@ The website is still under construction. Stuff is uploading quickly.
 
 <h2>Pageviews</h2>
 below is the pageview data of this webpage.   
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=7nUGqqbF0Pgid8vf4sMu0tDPGEmotpgKEjX-qMyRHqU"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=3eEvje6ZFC5-l_PwmgFYx4D_jLFNzrW3K9R9vNm3buM&cl=ffffff&w=a"></script>
 <h2>Contact me</h2>
 
 
