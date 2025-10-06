@@ -19,8 +19,8 @@ My research interests and skills are concentrated in the fields of SCP(scan, cop
 The website is still under construction. Stuff is uploading quickly.
 
 <h2>Pageviews</h2>
-below is NOT pageview data of this webpage. gE will delete/reset it once it figure out how 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=TotgUc16tGNawSb8uG8ApnWC8tMLjeLuiR0R0d9Wb8w'></script>
+below is the pageview data of this webpage.   
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=7nUGqqbF0Pgid8vf4sMu0tDPGEmotpgKEjX-qMyRHqU"></script>
 <h2>Contact me</h2>
 
 
