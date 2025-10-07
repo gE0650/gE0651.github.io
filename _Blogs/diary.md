@@ -68,4 +68,11 @@ Maybe gE needs to get down on some concrete works $\ldots$
 
 # 10.6
 
-Took a small bite of Obsidian and Simpread. Wonder in which scene can gE use them. Do it need to take notes in Markdown?
+Took a small bite of Obsidian and Simpread. Wonder in which scene can gE use them. Do it require gE to take notes in Markdown?
+
+# 10.7
+
+Back to campus, and found itself just missing the anniversary celebration of its high school $\ldots$  
+Took a small bite of datalab, which seemed not so difficult as expected.  
+Back to the topic of Obsidian, gE found itself equipped with tools to improve efficiency but lack projects to put them into use.  
+Still blank about what to do, no assignment from outside, maybe gE has to be proactive.  
