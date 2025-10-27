@@ -47,9 +47,9 @@ redirect_from:
     <br/><br/>
 </body>
 
-* Name: Your Name 
+* Name: gE   
 * Phone and WeChat: 17386888933 / Email: [xuanchengliu25@stu.pku.edu.cn](xuanchengliu25@stu.pku.edu.cn)
-* Personal Website: [gE0650.github.io](https://gE0650.github.io/)
+* Personal Website: [Home page](https://gE0650.github.io/)
 
 Education
 ======

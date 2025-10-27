@@ -19,10 +19,26 @@ My research interests and skills are concentrated in the fields of SCP(scan, cop
 The website is still under construction. Stuff is uploading quickly.
 
 <h2>Pageviews</h2>
-below is NOT pageview data of this webpage. gE will delete/reset it once it figure out how 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=TotgUc16tGNawSb8uG8ApnWC8tMLjeLuiR0R0d9Wb8w'></script>
+below is the pageview data of this webpage.   
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=3eEvje6ZFC5-l_PwmgFYx4D_jLFNzrW3K9R9vNm3buM&cl=ffffff&w=a"></script>
 <h2>Contact me</h2>
 
 
 [Email](mailto:xuanchengliu25@stu.pku.edu.cn) / [Github](https://github.com/gE0650)
 
+<script src="https://giscus.app/client.js"
+        data-repo="gE0650/gE0650.github.io"
+        data-repo-id="R_kgDOPz5s-A"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOPz5s-M4CwTQR"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
